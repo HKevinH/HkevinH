@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=HKevinH&show_icons=true&locale=en&count_private=true&theme=radical" alt="HKevinH" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HkevinH)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HkevinH)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---
+
+HkevinH/HkevinH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
