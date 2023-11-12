@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=HKevinH&show_icons=true&locale=en&count_private=true&theme=catppuccin_mocha" alt="HKevinH" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HkevinH&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HkevinH&repo=firelands-cata&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 
