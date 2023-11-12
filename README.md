@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HKevinH&show_icons=true&locale=en&count_private=true&theme=catppuccin_mocha" alt="HKevinH" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HkevinH&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HkevinH&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&hide_border=true" alt="HkevinH github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HkevinH&layout=compact&theme=catppuccin_mocha&hide_border=true" /></a> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HkevinH&repo=firelands-cata&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
