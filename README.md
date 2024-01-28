@@ -7,7 +7,6 @@ I'm Kevin, a Systems Engineering student passionate about what I do.
 - 👯 I’m looking to collaborate on interesting and innovative projects.
 - 💬 Ask me about anything related to systems engineering or technology.
 - 📫 How to reach me: kl3196704@gmail.com
-- 😄 Pronouns: He/Him
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HkevinH&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&hide_border=true" alt="HkevinH github stats" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
